@@ -37,4 +37,4 @@ Soy un desarrollador full stack junior que construye **soluciones reales**, no s
 Busco oportunidades para **crecer dentro de un equipo colaborativo**, seguir aprendiendo de desarrolladores con experiencia y contribuir a la construcción de aplicaciones con impacto real.
 
 📬 ¡Conectemos o colaboremos!  
-🔗 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/alejandro-camilo-728aab229/)) • 🌐 [Portafolio (opcional)](https://yourwebsite.dev)
+🔗 [LinkedIn](https://www.linkedin.com/in/alejandro-camilo-728aab229/) • 🌐 [Portafolio (opcional)](https://yourwebsite.dev)
