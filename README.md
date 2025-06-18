@@ -27,7 +27,7 @@ I'm a passionate full stack developer who builds **real-world solutions**, not j
 #### 🔗 [Subscription Tracker API](https://github.com/alejandrocamilo/Subscription-Tracker)
 > Node.js + Express API for managing subscription workflows and sending automated email reminders via Nodemailer. Built with clean architecture and production-ready practices.
 
-#### 🎥 Zoom-like Video Conferencing App
+#### 🎥 [Video Conferencing App](https://github.com/alejandrocamilo/Yoom)
 > Real-time video conferencing built with Next.js, WebRTC, and Socket.io. Fully responsive UI with Tailwind CSS and dynamic, secure routing.
 
 ---
