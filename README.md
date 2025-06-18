@@ -37,4 +37,4 @@ I'm a passionate full stack developer who builds **real-world solutions**, not j
 I’m seeking opportunities to **grow within a collaborative team**, continue learning from experienced developers, and contribute to building high-impact applications.
 
 📬 Feel free to connect or collaborate!  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) • 🌐 [Portfolio (optional)](https://yourwebsite.dev)
+🔗 [LinkedIn](https://www.linkedin.com/in/alejandro-camilo-728aab229/) • 🌐 [Portfolio (optional)](https://yourwebsite.dev)
