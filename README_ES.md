@@ -27,7 +27,7 @@ Soy un desarrollador full stack junior que construye **soluciones reales**, no s
 #### 🔗 [API de Seguimiento de Suscripciones](https://github.com/alejandrocamilo/Subscription-Tracker)
 > API con Node.js + Express para gestionar suscripciones y enviar recordatorios automáticos por correo con Nodemailer. Construida con arquitectura limpia y prácticas profesionales.
 
-#### 🎥 App de Videollamadas tipo Zoom
+#### 🎥 [App de Videollamadas tipo Zoom](https://github.com/alejandrocamilo/Yoom)
 > Plataforma de videollamadas en tiempo real construida con Next.js, WebRTC y Socket.io. Interfaz completamente responsiva con Tailwind CSS y rutas seguras dinámicas.
 
 ---
